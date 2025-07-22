@@ -55,10 +55,10 @@ This Django-based web application serves as a platform for posting articles acro
 Here are some snapshots of the application:
 
 1. Homepage:
-   ![Homepage](homepage_snapshot.png)
+   ![Homepage](homepage_snapshot.jpg)
 
 2. Article Creation Form:
-   ![Create Post Form](create_post_snapshot.png)
+   ![Create Post Form](create_post_snapshot.jpg)
 
 ### Live Demo:
 
